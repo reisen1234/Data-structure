@@ -58,7 +58,6 @@
 //					for (int j = 1; j <= w; j++)
 //						if (vis[i][j] == true)map[i][j] = 0;
 //				}
-//				break;
 //			}
 //			else memset(vis, false, sizeof(vis));
 //		}
